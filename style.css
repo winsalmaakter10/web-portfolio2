@@ -1,0 +1,123 @@
+body{
+    font-family: 'Big Shoulders Display', cursive;
+}
+p{
+
+ font-family: 'Poppins', sans-serif;
+ font-size: 8px;
+ color:green;
+}
+h1{
+    font-size: 40px;
+    margin-bottom: 1%;
+}
+.clear{
+    color: rgb(64, 88, 224)
+}
+img{
+    width:80%;
+}
+.top{
+    float:left;
+    margin-left: 20px;
+    margin-top: 5%;
+    padding-left: 15%;
+    width: 20%;
+}
+.dream{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,salmon,rgb(255, 136, 0));
+    padding: 5px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+    color: white;
+}
+.exprience{
+    float: left;
+}
+.went{
+    text-decoration: none;
+    color: black;
+    background-image: linear-gradient(180deg,salmon,orange);
+    border-radius: 5px;
+    padding: 5px 20px;
+}
+.box{
+    float: left;
+    margin-left: 40%;
+}
+.meet{
+    color: brown;
+}
+.go img{
+    width: 60%;
+}
+.beauty{
+    box-shadow: 10px 20px 40px gray; 
+    padding: 2% 2%;
+    border-radius: 10px;
+    width: 20%;
+    height: 10%;
+    float: left;
+    margin-left: 2%;
+    margin-top: 7%;
+    margin-bottom: 10%;
+}
+.claim{
+    float: left;
+    margin-left: 15%;
+
+}
+.first-fotter{
+    position: absolute;
+    width: 100%;
+    height: 500px;
+    margin-top: 980px;
+}
+.fotter img{
+margin-left: 250px;
+margin-top: 25px;
+width: 800px;
+}
+.fotter h1{
+    position: relative;
+    margin-left: 270px;
+    margin-top: -130px;
+    color: white;
+}
+.chat{
+    background-color: tomato;
+    margin-left: 400px;
+    margin-bottom: 150px;
+    position: absolute;
+    width: 80px; 
+    height: 50px;
+    padding-left: 20px;
+    border-radius: 5px;
+    margin-left: 850px;
+    margin-top: 95px;
+}
+.stay{
+    float: left;
+    margin-top: 250px;
+    margin-left: 595px;
+} 
+.stay p{
+    padding-left: 20px;
+}
+.free-time{
+    width: 35px;
+    position: absolute;
+margin-top: 1360px;
+margin-left: 500px;
+
+}
+.home{
+    margin-left:600px;
+}
+.time{
+    margin-left: 645px;
+}
+.net{
+    margin-left: 690px;
+}
